@@ -1,6 +1,6 @@
-# flutter_oop
+# Flutter OOP
 
-A new Flutter project.
+An project about learn OOP inFlutter
 
 ## Getting Started
 
